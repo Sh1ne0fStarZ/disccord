@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "pattern": [
+    "PPP",
+    "PEP",
+    "RMR"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "E": "minecraft:ender_pearl",
+    "R": "minecraft:redstone",
+    "M": "#disccord:music_discs"
+  },
+  "result": {
+    "count": 1,
+    "id": "disccord:custom_record"
+  }
+}
